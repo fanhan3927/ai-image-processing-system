@@ -20,7 +20,7 @@
 
 ## 📥 下载与运行（无需安装 Python）
 
-从 **[GitHub Releases](https://github.com/fanhan3927/AI-Image-Processing-System/releases)**
+从 **[GitHub Releases](https://github.com/fanhan3927/ai-image-processing-system/releases)**
 下载最新的 `AI-Image-Processing-System-vX.Y.Z-win64.zip`：
 
 1. 解压 ZIP；
