@@ -1,0 +1,28 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# PyInstaller 构建产物（可随时重新生成，不入库）
+build/
+dist/
+*.spec
+
+# 本地打包/临时文件
+*.zip
+*.7z
